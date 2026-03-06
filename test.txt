@@ -1,0 +1,4 @@
+Ivan Ivanov 25 Moscow
+Petr Petrov 30 Saint-Petersburg
+Anna Sidorova 28 Kazan
+Maria Kuznetsova 35 Novosibirsk
