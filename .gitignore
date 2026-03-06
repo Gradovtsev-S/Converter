@@ -1,0 +1,78 @@
+# Игнорировать папку сборки
+build/
+Build/
+build-*/
+out/
+bin/
+obj/
+
+# Игнорировать файлы CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CMakeUserPresets.json
+CTestTestfile.cmake
+*.cmake
+!CMakeLists.txt
+
+# Игнорировать объектные и исполняемые файлы
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.out
+*.app
+
+# Игнорировать временные файлы редакторов
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Игнорировать файлы VS Code
+.vscode/
+.vs/
+
+# Игнорировать файлы Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.user
+*.suo
+*.userprefs
+
+# Игнорировать логи и временные файлы
+*.log
+*.tmp
+*.temp
+*.cache
+
+# Игнорировать скомпилированные тесты
+Testing/
+Temporary/
+
+# Игнорировать файлы IDE
+.idea/
+*.iml
+.project
+.classpath
+.cproject
+.settings/
+
+# Игнорировать системные файлы Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# Игнорировать системные файлы Mac
+.DS_Store
+.AppleDouble
+.LSOverride
